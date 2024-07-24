@@ -1,0 +1,23 @@
+{
+  "title": "It Sunn Dashboard",
+  "loading": "Loading...",
+  "validations": {
+    "required": "please enter {{label}} field",
+    "invalid": "{{label}} is invalid",
+    "invalid_confirm_password": "The password and its repetition do not match."
+  },
+  "loginPage": {
+    "pageTitle": "Login Page",
+    "title": "Welcome to Dashboard",
+    "loginWithGoogle": "Login with Google",
+    "submit": "Submit",
+    "username": {
+      "label": "Username",
+      "placeholder": "Enter your username"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter your password"
+    }
+  }
+}
